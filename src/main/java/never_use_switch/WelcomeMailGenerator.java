@@ -1,7 +1,6 @@
 package never_use_switch;
 
 
-
 @MailCode(1)
 public class WelcomeMailGenerator implements MailGenerator {
     @Override
